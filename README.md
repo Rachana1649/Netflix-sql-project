@@ -12,7 +12,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ### Schema
 
-![Schema](https://github.com/user-attachments/assets/20fd3cea-d02e-4820-84c3-2d145d1dbaae)
+
 
 ### Business Problems and Solutions
 ### 1. Count the Number of Movies vs TV Shows
