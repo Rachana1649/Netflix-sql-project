@@ -12,7 +12,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ### Schema
 
-
+-<a href = "https://github.com/Rachana1649/Netflix-sql-project/blob/main/Schema.sql">
 
 ### Business Problems and Solutions
 ### 1. Count the Number of Movies vs TV Shows
